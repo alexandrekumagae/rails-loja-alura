@@ -75,3 +75,4 @@ end
 group :production do
   gem "pg"
 end
+gem "dockerfile-rails", ">= 1.6", :group => :development
